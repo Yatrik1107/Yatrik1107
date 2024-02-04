@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hi, I'm Yatrik!
+## 💼 About Me
 
-<!--
-**Yatrik1107/Yatrik1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📊 SQL Developer with a passion for Data Analysis
+- 💻 Currently optimizing SQL queries and delving into the world of data insights
+- 🔧 Skilled in SQL, T-SQL, Python, Power BI, Powershell
+- 🌱 Always eager to explore new data-driven opportunities
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** SQL, T-SQL, Python, Javascript, Powershell, C, HTML/CSS
+- **Tools:** SSMS, Django, React
+
+## 🌐 Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-YatrikPatel-blue)](https://www.linkedin.com/in/yatrikpatel1107/)
+<!-- - [![Twitter](https://img.shields.io/badge/Twitter-YNPatel-blue)](Your Twitter Profile Link) -->
+
+## 📫 How to Reach Me
+
+- 📧 Email: yatrikbilodariya@gmail.com
+
+#### Feel free to explore my repositories, and let's collaborate on exciting projects that involve SQL,Python and data analysis!
