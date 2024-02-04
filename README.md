@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Yatrik!
-
-![Profile Image](https://github.com/Yatrik1107/Yatrik1107/blob/main/Ynp%20Png.png)
-
 ## 💼 About Me
+ 
+
+<img src="https://github.com/Yatrik1107/Yatrik1107/blob/main/Ynp%20Png.png" alt="Profile Image" width="250" height="300">
+
+👋 Hi, I'm Yatrik!
 
 - 📊 SQL Developer with a passion for Data Analysis
 - 💻 Currently optimizing SQL queries and delving into the world of data insights
