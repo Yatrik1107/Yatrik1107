@@ -10,6 +10,10 @@
 - 🔧 Skilled in SQL, T-SQL, Python, Power BI, Powershell
 - 🌱 Always eager to explore new data-driven opportunities
 
+## Achievements :
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=YatrikPatel1107" alt="LeetCode Badges"/>
+
+
 ## 🛠️ Tech Stack
 
 - **Languages:** SQL, T-SQL, Python, Javascript, Powershell, C, HTML/CSS
