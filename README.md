@@ -10,14 +10,14 @@
 - 🔧 Skilled in SQL, T-SQL, Python, Power BI, Powershell
 - 🌱 Always eager to explore new data-driven opportunities
 
-## Achievements :
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=YatrikPatel1107" alt="LeetCode Badges"/>
-
 
 ## 🛠️ Tech Stack
 
 - **Languages:** SQL, T-SQL, Python, Javascript, Powershell, C, HTML/CSS
 - **Tools:** SSMS, Django, React
+
+## Achievements :
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=YatrikPatel1107" alt="LeetCode Badges"/>
 
 ## 🌐 Connect with Me
 
@@ -27,5 +27,6 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: yatrikbilodariya@gmail.com
+  
 
 #### Feel free to explore my repositories, and let's collaborate on exciting projects that involve SQL,Python and data analysis!
